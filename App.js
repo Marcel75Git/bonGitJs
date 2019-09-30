@@ -6,7 +6,7 @@ import {Text, StyleSheet,View} from 'react-native'
 		return(
           <View style = {styles.container}>
 
-             <Text}> je teste mes valeurs </Text>
+             <Text style ={styles.texto}> je teste mes valeurs </Text>
           
           </View>
 			)
@@ -18,6 +18,9 @@ import {Text, StyleSheet,View} from 'react-native'
  		flex:1,
  		backgtoundColor:"green",
  	},
+ 	texto:{
+ 		color:"lime",
+ 	}
  })
 
 
