@@ -16,7 +16,7 @@ import {Text, StyleSheet,View} from 'react-native'
  const styles = StyleSheet.create({
  	container:{
  		flex:1,
- 		backgtoundColor:"green",
+ 		backgtoundColor:"pink",
  	},
  	texto:{
  		color:"lime",
